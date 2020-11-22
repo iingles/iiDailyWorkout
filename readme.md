@@ -5,12 +5,12 @@
 
 --- 
 **Code**
- - [XAML Code](https://github.com/iingles/iiCoinFlip/blob/master/iiCoinFlip/MainPage.xaml)
- - [MainPage C# Code](https://github.com/iingles/iiCoinFlip/blob/master/iiCoinFlip/MainPage.xaml.cs)
- - [Coin Class C# Code](https://github.com/iingles/iiCoinFlip/blob/master/iiCoinFlip/Coin.cs)
+ - [XAML Code](https://github.com/iingles/iiDailyWorkout/blob/master/iiDailyWorkout/MainPage.xaml)
+ - [MainPage C# Code](https://github.com/iingles/iiDailyWorkout/blob/master/iiDailyWorkout/MainPage.xaml.cs)
+
 
 **Screenshots**
- - [Main Screen](https://github.com/iingles/iiCoinFlip/blob/master/main-screen.jpg)
- - [1x Result](https://github.com/iingles/iiCoinFlip/blob/master/1x-result.jpg)
- - [5x Result](https://github.com/iingles/iiCoinFlip/blob/master/5x-results.jpg)
-
+ - [Main Screen](https://github.com/iingles/iiDailyWorkout/blob/master/main-screen.jpg)
+ - [Invalid Alert](https://github.com/iingles/iiDailyWorkout/blob/master/invalid-alert.jpg)
+ - [Input 20](https://github.com/iingles/iiDailyWorkout/blob/master/input-20.jpg)
+ - [Add 120](https://github.com/iingles/iiDailyWorkout/blob/master/add-120.jpg)
